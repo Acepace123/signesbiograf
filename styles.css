@@ -1,0 +1,35 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  /* The image used */
+  background-image: url("Website\ background.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(213, 214, 226); text-align: center;
+}
+h1 {
+  color: rgb(189, 18, 18);
+font-size:300%;
+}
+p {
+  color: rgb(0, 0, 0);
+}
+
+.error {
+  color: rgb(189, 18, 18);
+}
+
+iframe {
+  box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.9);
+  }
