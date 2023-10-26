@@ -28,7 +28,7 @@ if (text == "AzinSigne") {
     console.log("success");
     clearPage();
     const video = document.createElement("iframe");
-    video.src = "https://www.youtube.com/embed/lBk1Sn8NND0";
+    video.src = "https://www.youtube.com/embed/53LZ89zpIqc";
     video.height = "720";
     video.width = "1080";
     document.querySelector("body").appendChild(video);
