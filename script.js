@@ -25,7 +25,7 @@ function clearPage() {
 function showVideo() {
     document.querySelector("button").remove();
     const video = document.createElement("iframe");
-    video.src = "https://www.youtube.com/embed/I_CnrDKuAI4";
+    video.src = "https://www.youtube.com/embed/s-lYZv2SRZw";
     video.height = "0";
     video.width = "0";
     video.allow = "fullscreen";
